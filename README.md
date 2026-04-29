@@ -13,7 +13,7 @@ Currently at **Project Canary**, building ingestion and analytics infra for meth
 
 - Exploring **local AI models on proprietary data** — open-weight LLMs and agents on self-owned datasets, not someone else's API
 - Building a personal streaming market-data platform (Kafka → TimescaleDB → FastAPI → Next.js) as the substrate for those experiments
-- Open to collabs on ambitious technical work
+- Open to collabs
 
 ### Featured
 
